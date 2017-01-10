@@ -1,0 +1,19 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 19 Aug 2016 15:44:36 at https://www.lac-info.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.lac-info.com/ -O1 "C:\xampp\htdocs\long\long" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:44:36	Warning: 	Cache: damaged cache, trying to repair
+15:44:36	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+15:44:36	Warning: 	Cache: error trying to open the cache
+15:48:59	Error: 	"Not Found" (404) at link https://www.lac-info.com/css/mCSB_buttons.png (from https://www.lac-info.com/css/main.css)
+15:49:04	Error: 	"Not Found" (404) at link https://www.lac-info.com/img/autocomplete_marker.png (from https://www.lac-info.com/css/main.css)
+15:49:04	Error: 	"Not Found" (404) at link https://www.lac-info.com/includes/ajax/favicon.ico (from https://www.lac-info.com/includes/ajax/side-effect.ajax.php?tab=pill)
+15:49:12	Error: 	"Not Found" (404) at link https://www.lac-info.com/img/faq/tampon_hover.svg (from https://www.lac-info.com/img/faq/ico-faq-tampon-hover.svg)
+15:49:12	Error: 	"Not Found" (404) at link https://www.lac-info.com/img/faq/tampon_normal.svg (from https://www.lac-info.com/img/faq/ico-faq-tampon.svg)
+
+HTTrack Website Copier/3.48-22 mirror complete in 4 minutes 36 seconds : 342 links scanned, 335 files written (13544027 bytes overall) [13334778 bytes received at 48314 bytes/sec], 604173 bytes transferred using HTTP compression in 9 files, ratio 25%, 2.4 requests per connection
+(5 errors, 3 warnings, 0 messages)
